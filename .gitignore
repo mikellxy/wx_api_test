@@ -20,8 +20,6 @@ celerybeat-schedule.db
 
 node_modules
 .tmp
-bei/.tem
-bei/static
 static
 static-src/libs
 assets.json
@@ -37,5 +35,6 @@ lib
 .idea
 /venv/
 __pycache__
+settings.py
 TODO
 
